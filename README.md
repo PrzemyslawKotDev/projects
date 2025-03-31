@@ -1,4 +1,4 @@
-~~~ This section is under development ~~~
+*** This section is under development ***
 
 My projects:
 
