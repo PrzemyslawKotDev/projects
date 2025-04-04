@@ -6,6 +6,7 @@ My projects:
 Plans:
 - recreate the layout according to the client -> ✔
 - create routes -> ✔
+- integration with supabase (bucket) ✔
 - online exercises - > ✔
 - url params use
 - error handling in the form of notifications 
