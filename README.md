@@ -8,7 +8,7 @@ Plans:
 - create routes -> ✔
 - integration with supabase (bucket) ✔
 - online exercises - > ✔
-- url params use
+- url params use - > ✔
 - error handling in the form of notifications 
 - authentication (accounts)
 - collecting results of online exercises
