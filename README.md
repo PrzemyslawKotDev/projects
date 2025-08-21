@@ -16,7 +16,7 @@ My projects:
 
 3. Fictional University ( http://kot-page.byethost15.com/ ) - a training and portfolio project built in WordPress, designed to simulate a functional university website. The goal was to practice custom theme development and deepen understanding of WordPress as a CMS, without relying on external page builders.
 
-    Technologies: WordPress, PHP, MySQL, custom templates, theme development.
+    Technologies: WordPress, PHP, MySQL, custom templates, custom theme.
   
     Project Features:
     - custom WordPress theme with hand-written PHP templates
