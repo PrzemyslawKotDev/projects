@@ -1,8 +1,6 @@
-*** This section is under development ***
-
 My projects:
 
-1. Korki w domu ( https://korkiwdomu.netlify.app/ ) - here you can find in very early stage english learning platform. Project is currently under development.
+1. Korki w domu ( https://korkiwdomu.netlify.app/ ) - here you can find in very early stage english learning platform. Project is currently suspended.
 Plans:
 - recreate the layout according to the client -> ✔
 - create routes -> ✔
